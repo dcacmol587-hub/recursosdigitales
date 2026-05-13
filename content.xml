@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260513085622EI8090</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260513085622QRWMQL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>&quot;La llave del Poder&quot; (C4)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>La eficacia y potencial de las máquinas se esconde en su buen uso y mantenimiento. Esta actividad pretende ser la llave para ello.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>David Cáceres Molina</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Actividad para el trabajo de los contenidos relacionados con el mantenimiento de máquinas de limpieza en el Grado Básico de Actividades Domésticas y Limpieza de Edificios, concretamente en los relacionados con el RA5, CE 5c, d y f. Según la organización dual del módulo, esta será la actividad de centro 4 y última.
+En ella, obtendremos como resultado unas fichas de instrucciones para realizar el mantenimiento de nuestras máquinas que nos ayudarán a hacerlo efectivo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778654555256</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp3ozy8x-pq4hg77wj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>0. A LA BÚSQUEDA DE LA LLAVE DEL PODER</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0. A LA BÚSQUEDA DE LA LLAVE DEL PODER</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tipo de tarea: Nombre de la tarea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>0. A LA BÚSQUEDA DE LA LLAVE DEL PODER</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy8x-pq4hg77wj</odePageId>
+      <odeBlockId>block-mp2e30n4-g1o47lz81</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy8x-pq4hg77wj</odePageId>
+          <odeBlockId>block-mp2e30n4-g1o47lz81</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n4-fb7ayiswq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="border: 3px outset #0065ab; width: 100%;" align="center">
+<tbody>
+<tr>
+<td style="width: 99.9999%; background-color: #0065ab; text-align: center;" colspan="3">
+<h3><span style="color: #ffffff; font-size: 24pt;"><b><nombre materia=""><br /></nombre></b></span></h3>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<p><strong><span style="color: #336633; font-size: 18pt;">2º GB<br /></span></strong></p>
+<p><strong><span style="color: #336633; font-size: 18pt;">LIMPIEZA CON MÁQUINAS</span></strong></p>
+</td>
+<td style="width: 33.3333%; text-align: center;"></td>
+<td style="width: 33.3333%; text-align: center;">
+<p><span style="font-size: 18pt; color: #336633;"><strong>Realizando el Mantenimiento de nuestras máquinas</strong></span><span style="font-size: 18pt; color: #336633;"><strong><br /></strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 99.9999%; text-align: center;" colspan="3"><strong><span style="color: #0065ab; font-size: 18pt;">ACTIVIDADES EN EL CENTRO<nombre de="" la="" unidad=""></nombre></span></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3"><strong><span style="color: #0065ab; font-size: 18pt;">Tarea nº4<nombre de="" la="" tarea=""></nombre></span></strong></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp2e30n4-fb7ayiswq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"border: 3px outset #0065ab; width: 100%;\" align=\"center\">\n<tbody>\n<tr>\n<td style=\"width: 99.9999%; background-color: #0065ab; text-align: center;\" colspan=\"3\">\n<h3><span style=\"color: #ffffff; font-size: 24pt;\"><b><nombre materia=\"\"><br /></nombre></b></span></h3>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%; text-align: center;\">\n<p><strong><span style=\"color: #336633; font-size: 18pt;\">2º GB<br /></span></strong></p>\n<p><strong><span style=\"color: #336633; font-size: 18pt;\">LIMPIEZA CON MÁQUINAS</span></strong></p>\n</td>\n<td style=\"width: 33.3333%; text-align: center;\"></td>\n<td style=\"width: 33.3333%; text-align: center;\">\n<p><span style=\"font-size: 18pt; color: #336633;\"><strong>Realizando el Mantenimiento de nuestras máquinas</strong></span><span style=\"font-size: 18pt; color: #336633;\"><strong><br /></strong></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.9999%; text-align: center;\" colspan=\"3\"><strong><span style=\"color: #0065ab; font-size: 18pt;\">ACTIVIDADES EN EL CENTRO<nombre de=\"\" la=\"\" unidad=\"\"></nombre></span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\" colspan=\"3\"><strong><span style=\"color: #0065ab; font-size: 18pt;\">Tarea nº4<nombre de=\"\" la=\"\" tarea=\"\"></nombre></span></strong></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp3ozy8x-pq4hg77wj</odePageId>
+      <odeBlockId>block-mp2e30n5-akzuy75o2</odeBlockId>
+      <blockName>De qué trata esta tarea</blockName>
+      <iconName>udl_eng_reto</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy8x-pq4hg77wj</odePageId>
+          <odeBlockId>block-mp2e30n5-akzuy75o2</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n5-l0gu0ni6j</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>En esta actividad tendrás que - a través de <strong>una serie de tareas</strong>- aprender cómo se realiza el <strong>mantenimiento </strong>de nuestras máquinas. Con esta <strong>BÚSQUEDA</strong>, conseguirás "<strong>la llave</strong>" para sacar de ellas el máximo rendimiento, eficacia y eficiencia.</p>
+<p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_edb6diedb6diedb6.png" title="LA LLAVE DEL PODER" width="1408" height="768" alt="La llave que - CON TU AYUDA- abrirá todo el potencial de nuestras máquinas"></p>
+<table style="width: 70%;" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; border: 1px solid #ffffff;"></td>
+</tr>
+<tr>
+<td style="border: 1px solid #ffffff;">
+<p><span style="font-size: 13.3333px;"><i>LA LLAVE DEL PODER: con tu ayuda, abrirá todo el potencial de nuestras máquinas.</i></span></p>
+<p><span style="font-size: 13.3333px;"><i>Fuente: Elaboración propia con ayuda de Gémini.</i></span></p>
+<p><span style="font-size: 13.3333px;"><i></i></span><br></p>
+<p style="text-align: justify;"><span style="font-size: 13.3333px;">Se pretende ( a través de <strong>5 sesiones de 1 hora aproximadamente y un poco de trabajo en casa</strong>) que el alumnado tome conciencia de las tareas necesarias de mantenimiento de nuestras máquinas de limpieza, que ha estado practicando a lo largo del curso con anterioridad pero sin ser el centro de interés. Con estas tareas alargaremos la vida de nuestras máquinas ahorrando dinero a nuestra empresa en averías y roturas y evitando gastos innecesarios en materiales y productos bajo una conciencia de respeto medioambiental.</span></p>
+<p style="text-align: justify;"><span style="font-size: 13.3333px;"></span><br></p>
+<p style="text-align: justify;"><span style="font-size: 13.3333px;">Para ello utilizaremos 3 herramientas digitales:</span></p>
+<p style="text-align: justify;"><span style="font-size: 13.3333px;">- <strong>CANVA o Genially</strong></span></p>
+<p style="text-align: justify;"><strong><span style="font-size: 13.3333px;">-&nbsp; Padlet</span></strong></p>
+<p style="text-align: justify;"><strong><span style="font-size: 13.3333px;">- Formularios de Goggle</span></strong></p>
+</td>
+</tr>
+</tbody>
+</table></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy91-epb260mai</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ANTES DE... TIENES QUE SABER PARA ANDAR SEGUROS/AS POR LA RED</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ANTES DE... TIENES QUE SABER PARA ANDAR SEGUROS/AS POR LA RED</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ANTES DE... TIENES QUE SABER PARA ANDAR SEGUROS/AS POR LA RED</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy91-epb260mai</odePageId>
+      <odeBlockId>block-1778582294482-gsw0m1353</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy91-epb260mai</odePageId>
+          <odeBlockId>block-1778582294482-gsw0m1353</odeBlockId>
+          <odeIdeviceId>idevice-1778582294481-lr4frc5ic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:05</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individualmente</dd></div></dl><p>Lee la siguiente infografía detenidamente. Comenta más abajo qué es lo que más te ha llamado la atención de ella:</p>
+<p><br /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/INFOGRAFIA SEGURIDAD ALUMNADO.png" title="INFORGRAFÍA "Para ANDAR por la RED y NO caer en ella"" width="1474" height="2642" alt="Infografía sobre Seguridad en la REd para alumnado de FPGB" /></p>
+<p><em>FUENTE Y AUTORIA: Elaboración propia con ayuda de Notebooklm y Gémini.</em></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="PIENSA en esta sencillas preguntas: " data-text-a="PIENSA en esta sencillas preguntas: " data-text-b="PIENSA en esta sencillas preguntas: "></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>¿Qué es lo que más te ha<strong> llamado la atención </strong>de la INFOGRAFÍA? ¿Te has "<strong>caído</strong>" alguna vez en la RED?</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778582294481-lr4frc5ic","textInfoDurationInput":"00:05","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individualmente","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:05</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individualmente</dd></div></dl><p>Lee la siguiente infografía detenidamente. Comenta más abajo qué es lo que más te ha llamado la atención de ella:</p>\n<p><br /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/INFOGRAFIA SEGURIDAD ALUMNADO.png\" title=\"INFORGRAFÍA \"Para ANDAR por la RED y NO caer en ella\"\" width=\"1474\" height=\"2642\" alt=\"Infografía sobre Seguridad en la REd para alumnado de FPGB\" /></p>\n<p><em>FUENTE Y AUTORIA: Elaboración propia con ayuda de Notebooklm y Gémini.</em></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"PIENSA en esta sencillas preguntas: \" data-text-a=\"PIENSA en esta sencillas preguntas: \" data-text-b=\"PIENSA en esta sencillas preguntas: \"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>¿Qué es lo que más te ha<strong> llamado la atención </strong>de la INFOGRAFÍA? ¿Te has \"<strong>caído</strong>\" alguna vez en la RED?</p></div></div>","textFeedbackInput":"PIENSA en esta sencillas preguntas: ","textFeedbackTextarea":"<p>¿Qué es lo que más te ha<strong> llamado la atención </strong>de la INFOGRAFÍA? ¿Te has \"<strong>caído</strong>\" alguna vez en la RED?</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy93-sd5d8gvdf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. EL CAMINO (Actividades y Tareas)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. EL CAMINO (Actividades y Tareas)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. EL CAMINO (Actividades y Tareas)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy93-sd5d8gvdf</odePageId>
+      <odeBlockId>block-mp2e30n5-myagx409c</odeBlockId>
+      <blockName>Contexto y objetivos de la tarea</blockName>
+      <iconName>udl_eng_objetivos</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy93-sd5d8gvdf</odePageId>
+          <odeBlockId>block-mp2e30n5-myagx409c</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n5-4zixzxepe</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><h5 style="text-align: justify;"><span class=" EducaAnd_IMP" style="text-align: justify;">Contexto de la tarea:</span></h5>
+<p style="text-align: justify;">Durante todo el curso hemos ido manejando nuestras máquinas, aprendiendo más de lo que pensamos. Ahora toca recopilar y afianzar aquellas tareas de mantenimiento y seguridad en su uso. Lo vamos a hacer a través de 6 tareas.</p>
+<h5 style="text-align: justify;"><span class=" EducaAnd_IMP" style="text-align: justify;">En general,&nbsp; en esta ACTIVIDAD aprenderás a:</span></h5>
+<ul>
+<li style="text-align: justify;"><strong>Aplicar</strong> el <strong>plan de mantenimiento</strong> preventivo de las máquinas según el fabricante.</li>
+<li style="text-align: justify;"><strong>Realizar</strong> las operaciones de <strong>preparación</strong> y mantenimiento así como de sus accesorios y herramientas para la limpieza.</li>
+<li style="text-align: justify;">Desarrollarlo todo pero en condiciones de <strong>Prevención y Seguridad.</strong>..así como con conciencia <strong>medioambiental.</strong><br></li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp3ozy93-sd5d8gvdf</odePageId>
+      <odeBlockId>block-mp2e30n5-93b8ahrqv</odeBlockId>
+      <blockName>Descripción de la ACTIVIDAD</blockName>
+      <iconName>udl_exp_actividad</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy93-sd5d8gvdf</odePageId>
+          <odeBlockId>block-mp2e30n5-93b8ahrqv</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n5-d6kcxqfez</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>A continuación te muestro<strong> el camino&nbsp; que vamos a seguir</strong> hasta conseguir nuestro objetivo, pasando por una serie de tareas, algunas hechas ya:</p>
+<p><br></p>
+<p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_m17p8em17p8em17p.png" title="El Camino a Seguir" width="656" height="1642" alt="Línea temporal sobre las tareas a realizar" style="display: block; margin-left: auto; margin-right: auto;"></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy99-eaald044t</odePageId>
+  <odeParentPageId>page-mp3ozy93-sd5d8gvdf</odeParentPageId>
+  <pageName>2.1. INVESTIGANDO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. INVESTIGANDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. INVESTIGANDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.1. INVESTIGANDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy99-eaald044t</odePageId>
+      <odeBlockId>block-1778583408763-up0eafi2p</odeBlockId>
+      <blockName>Contexto y objetivos de la tarea</blockName>
+      <iconName>udl_eng_objetivos</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy99-eaald044t</odePageId>
+          <odeBlockId>block-1778583408763-up0eafi2p</odeBlockId>
+          <odeIdeviceId>idevice-1778583408763-ole0e3bnv</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><h5 style="text-align: justify;"><span class=" EducaAnd_IMP" style="text-align: justify;">Antes de nada:</span></h5>
+<p style="text-align: justify;"><span style="color: #e03e2d;" title="Recursos para investigar"><span style="color: #000000;">Vamos a revisar y a ampliar la información que tenemos sobre el mantenimiento y cuidado de nuestras máquinas. Para ello dirígete e investiga en los enlaces y materiales que te aparecen en&nbsp; el <strong>Panel Padlet</strong> que hemos preparado. Para ello, pica en este enlace: </span><a href="https://padlet.com/dcacmol587_/la-llave-del-poder-o-del-secreto-de-la-belleza-y-el-buen-fun-l95s4ed8akc451sc" title="Recursos para investigar">Panel con recursos para investigar</a></span></p>
+<h5 style="text-align: justify;"><span class=" EducaAnd_IMP" style="text-align: justify;">TEN EN CUENTA : cuando vayas recorriendo los distintos recursos, ve tomando nota de dónde está la información sobre el mantenimiento de nuestras máquinas, para poder hacer las fichas.</span></h5></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp3ozy99-eaald044t</odePageId>
+      <odeBlockId>block-1778583408763-d8ubj0tof</odeBlockId>
+      <blockName>Descripción de la tarea</blockName>
+      <iconName>udl_exp_actividad</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy99-eaald044t</odePageId>
+          <odeBlockId>block-1778583408763-d8ubj0tof</odeBlockId>
+          <odeIdeviceId>idevice-1778583408763-2lemt1xye</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Navega, explora, curiosea, adéntrate, piérdete, encuéntrate.</strong>... en los recursos del tablero Padlet. Ya verás que está organizado según las diferentes máquinas.&nbsp;</p>
+<p>UNA VEZ QUE HAYAMOS HECHO LAS <strong>PAREJAS EN CLASE,</strong> centraos en una segunda investigación según la máquina asignada a vuestra pareja.&nbsp;</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9a-vlangotpv</odePageId>
+  <odeParentPageId>page-mp3ozy93-sd5d8gvdf</odeParentPageId>
+  <pageName>2.2. Elaboración de Tarjetas de Instrucciones</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Elaboración de Tarjetas de Instrucciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Elaboración de Tarjetas de Instrucciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.2. Elaboración de Tarjetas de Instrucciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9a-vlangotpv</odePageId>
+      <odeBlockId>block-1778583498820-r0cv2wsob</odeBlockId>
+      <blockName>DESCRIPCIÓN DE LA TAREA</blockName>
+      <iconName>udl_eng_objetivos</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9a-vlangotpv</odePageId>
+          <odeBlockId>block-1778583498820-r0cv2wsob</odeBlockId>
+          <odeIdeviceId>idevice-1778601322418-sw6lk8edg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea se os pide que elaboréis las <strong>FICHAS DE INSTRUCCIONES</strong> nuestras máquinas, un trabajo que haréis <strong>POR PAREJAS</strong> según la máquina que os hayamos asignado en clase. Para ello:</p>
+<p>- Usaréis la información extraída de la investigación que habéis realizado dándole formato desde <strong>CANVA</strong>  o GENIALLY. </p>
+<p>- Subiréis vuestra tarjeta al Panel <strong>PADLET </strong>que os he creado para que todo el mundo pueda tener acceso a las fichas elaboradas por <a href="mailto:tod@s" title="Panel para subir FICHAS DE INSTRUCCIONES">tod@s</a>. En el panel indicaréis vuestros nombres, el tipo de máquina y subiréis una imagen de vuestra ficha. A este panel podéis acceder desde el siguiente enlace:  <a href="https://padlet.com/dcacmol587_/fichas-de-instrucciones-wslmbwspv58tjth" title="Panel para subir FICHAS DE INSTRUCCIONES">https://padlet.com/dcacmol587_/fichas-de-instrucciones-wslmbwspv58tjth</a></p>
+<p>- POR ÚLTIMO: echaréis un <strong>vistazo al resto de fichas</strong> hechas por el grupo, ya que os servirá como material de "estudio" para realizar las siguientes tareas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778601322418-sw6lk8edg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea se os pide que elaboréis las <strong>FICHAS DE INSTRUCCIONES</strong> nuestras máquinas, un trabajo que haréis <strong>POR PAREJAS</strong> según la máquina que os hayamos asignado en clase. Para ello:</p>\n<p>- Usaréis la información extraída de la investigación que habéis realizado dándole formato desde <strong>CANVA</strong>  o GENIALLY. </p>\n<p>- Subiréis vuestra tarjeta al Panel <strong>PADLET </strong>que os he creado para que todo el mundo pueda tener acceso a las fichas elaboradas por <a href=\"mailto:tod@s\" title=\"Panel para subir FICHAS DE INSTRUCCIONES\">tod@s</a>. En el panel indicaréis vuestros nombres, el tipo de máquina y subiréis una imagen de vuestra ficha. A este panel podéis acceder desde el siguiente enlace:  <a href=\"https://padlet.com/dcacmol587_/fichas-de-instrucciones-wslmbwspv58tjth\" title=\"Panel para subir FICHAS DE INSTRUCCIONES\">https://padlet.com/dcacmol587_/fichas-de-instrucciones-wslmbwspv58tjth</a></p>\n<p>- POR ÚLTIMO: echaréis un <strong>vistazo al resto de fichas</strong> hechas por el grupo, ya que os servirá como material de \"estudio\" para realizar las siguientes tareas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9c-1osb4zc2m</odePageId>
+  <odeParentPageId>page-mp3ozy93-sd5d8gvdf</odeParentPageId>
+  <pageName>2.3. Simulaciones</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3. Simulaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3. Simulaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.3. Simulaciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9c-1osb4zc2m</odePageId>
+      <odeBlockId>block-1778583540884-9sgshgtur</odeBlockId>
+      <blockName>Descripción de la tarea</blockName>
+      <iconName>udl_exp_actividad</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9c-1osb4zc2m</odePageId>
+          <odeBlockId>block-1778583540884-9sgshgtur</odeBlockId>
+          <odeIdeviceId>idevice-1778583540884-ags96brrb</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Esta tarea es fácil: CONSISTE EN PRÁCTICAR CON NUESTRAS MÁQUINAS. Para ello una persona hará de profe, siguiendo la rúbrica de evaluación, y otra realizará la práctica.</p>
+<p>Os adjunto la rúbrica para que la utilicéis de referencia:&nbsp;</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png"></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9d-n9acdv2d2</odePageId>
+  <odeParentPageId>page-mp3ozy93-sd5d8gvdf</odeParentPageId>
+  <pageName>2.4. Manos a la obra (Prueba Práctica de Evaluación)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.4. Manos a la obra (Prueba Práctica de Evaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.4. Manos a la obra (Prueba Práctica de Evaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.4. Manos a la obra (Prueba Práctica de Evaluación)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9d-n9acdv2d2</odePageId>
+      <odeBlockId>block-1778583545134-zogtxwhz1</odeBlockId>
+      <blockName>PRUEBA PRÁCTICA DE EVALUACIÓN</blockName>
+      <iconName>udl_exp_actividad</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9d-n9acdv2d2</odePageId>
+          <odeBlockId>block-1778583545134-zogtxwhz1</odeBlockId>
+          <odeIdeviceId>idevice-1778583545134-jvt1wkkvm</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>CUANDO ESTÉIS PREPARADOS/AS: <strong>pasaremos a hacer la práctica de evaluación real,</strong> que será igual que la realizada en las simulaciones pero con la OBSERVACIÓN del profe que hará evaluación con la misma rúbrica que habéis utilizado.</p>
+<p>La rúbrica podéis encontrarla en el apartado "<strong>Entrega y Evaluación</strong>".</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9f-z1vfl9js4</odePageId>
+  <odeParentPageId>page-mp3ozy93-sd5d8gvdf</odeParentPageId>
+  <pageName>2.5. Valorando: el propio trabajo y el de los compañeros.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.5. Valorando: el propio trabajo y el de los compañeros.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.5. Valorando: el propio trabajo y el de los compañeros.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.5. Valorando: el propio trabajo y el de los compañeros.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9f-z1vfl9js4</odePageId>
+      <odeBlockId>block-1778583548731-d65qucjfs</odeBlockId>
+      <blockName>COEVALUACIÓN</blockName>
+      <iconName>udl_exp_actividad</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9f-z1vfl9js4</odePageId>
+          <odeBlockId>block-1778583548731-d65qucjfs</odeBlockId>
+          <odeIdeviceId>idevice-1778583548731-ujkzwptps</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>En esta tarea, usando <strong>la rúbrica </strong>que os facilitará el profe, evaluaréis <a href="mailto:vosotr@s">vosotr@s</a> mismos <strong>A <a href="mailto:VUESTR@S">VUESTR@S</a> COMPAÑER@S</strong> en su desempeño en el mantenimiento de las máquinas, según lo habéis hecho en la prueba práctica. <strong>Anotaréis sus nombres en el recuadro de la rúbrica</strong> que creais que ha alcanzado, en la rúbrica en papel que os facilitaremos. El profe tendrá en cuenta también vuestra valoración para la nota en esta actividad.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9g-7g4w618be</odePageId>
+  <odeParentPageId>page-mp3ozy93-sd5d8gvdf</odeParentPageId>
+  <pageName>2.6.Valorando II: Evaluamos la Actividad.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.6.Valorando II: Evaluamos la Actividad.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.6.Valorando II: Evaluamos la Actividad.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.6.Valorando II: Evaluamos la Actividad.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9g-7g4w618be</odePageId>
+      <odeBlockId>block-1778583552510-h8g2nczma</odeBlockId>
+      <blockName>EVALUANDO TAMBIÉN AL PROFE EN ESTA ACTIVIDAD</blockName>
+      <iconName>udl_exp_actividad</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9g-7g4w618be</odePageId>
+          <odeBlockId>block-1778583552510-h8g2nczma</odeBlockId>
+          <odeIdeviceId>idevice-1778583552510-36jq5pkb4</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><span style="color: #f1c40f;"><strong>PARA TERMINAR,</strong></span> te pedimos que realices este pequeño cuestionario de valoración del profe y la actividad planificada. Gracias por tu colaboración.</p>
+<p><strong>ENLACE PARA EVALUAR AL PROFE Y ESTA ACTIVIDAD</strong>:&nbsp;</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScAyZXQ3HKLx2T6umMtNg-3ek7XtiV2Z-szoFvAqScNvVaesA/viewform?usp=sharing&ouid=116088163609969753027" title="EVALUANDO TAMBIÉN AL PROFE">https://docs.google.com/forms/d/e/1FAIpQLScAyZXQ3HKLx2T6umMtNg-3ek7XtiV2Z-szoFvAqScNvVaesA/viewform?usp=sharing&ouid=116088163609969753027</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9h-quhfn968c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Entrega y evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Entrega y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entrega y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Entrega y evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9h-quhfn968c</odePageId>
+      <odeBlockId>block-mp2e30n6-m3thi5gpb</odeBlockId>
+      <blockName>Evaluación de la tarea</blockName>
+      <iconName>udl_eng_rubrica</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9h-quhfn968c</odePageId>
+          <odeBlockId>block-mp2e30n6-m3thi5gpb</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n6-n7szto0iy</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><strong>La entrega de cada tarea se indica en la descripción de la misma.</strong></p>
+<p style="text-align: justify;">La <strong>evaluación final</strong> de la tarea se os comunicará por Clasroom siguiendo estas dos herramientas:</p>
+<p style="text-align: justify;">- La rúbrica que ya conocéis y que tendrá en cuenta las valoraciones de vuestros/as compañeros/as</p>
+<p style="text-align: justify;">- Esta escala de valoración, casi una rúbrica, de que habéis ido realizando todas las actividades en clase.</p>
+<p style="text-align: justify;">Os las adjunto aquí:&nbsp;</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mceclip1.png"></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mceclip0.png"></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozy9j-o7qe0doog</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>POR SI TE PIERDES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>POR SI TE PIERDES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consultas y ayuda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>POR SI TE PIERDES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9j-o7qe0doog</odePageId>
+      <odeBlockId>block-mp2e30n6-20nrmz9q0</odeBlockId>
+      <blockName>Contenidos de consulta</blockName>
+      <iconName>udl_rep_conocer</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9j-o7qe0doog</odePageId>
+          <odeBlockId>block-mp2e30n6-20nrmz9q0</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n6-2ntitwfy1</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">AYUDA....PARA ENCONTRARSE</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para realizar esta tarea deberás revisar:</p>
+<p>- Los contenidos de nuestro <strong>Manual de clase</strong>.</p>
+<p>- Nuestro "<strong>Manual Thinking</strong>" de clase, que es como un mapa del manual.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp3ozy9j-o7qe0doog</odePageId>
+      <odeBlockId>block-mp2e30n6-h3pwcl954</odeBlockId>
+      <blockName>Ayuda</blockName>
+      <iconName>udl_rep_ejemplo</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozy9j-o7qe0doog</odePageId>
+          <odeBlockId>block-mp2e30n6-h3pwcl954</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n6-m219ascdc</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">- <span style="color: #3598db;"><strong>El Camino a Seguir</strong></span>:&nbsp;</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_m17p8em17p8em17p.png" title="El Camino a Seguir" width="656" height="1642" alt=""></p>
+<p style="text-align: justify;"><br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozya0-v0c5dbwbz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozya0-v0c5dbwbz</odePageId>
+      <odeBlockId>block-mp2e30n6-otcojqpq7</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozya0-v0c5dbwbz</odePageId>
+          <odeBlockId>block-mp2e30n6-otcojqpq7</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n6-hrbnl0and</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><img src="{{context_path}}/content/resources/IMAGEN_PROMOCIONAL.jpg" alt="Imagen del Proyecto REA Andalucía" width="600" height="300" /></h1>
+<table class="exe-table" style="height: 92px;"><caption></caption>
+<tbody>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Título</th>
+<td style="width: 610.167px; height: 23px;">"<strong>La llave del Poder</strong>". Actividad de Centro para el módulo dualizado de <strong>Limpieza con máquinas</strong>.</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Descripción</th>
+<td style="width: 610.167px; height: 23px;">Esta actividad está pensada como actividad final de curso para que, de forma diferente, el alumnado asiente los contenidos practicados a lo largo del curso relacionados con el mantenimiento de nuestras máquinas de limpieza.</td>
+</tr>
+<tr>
+<th style="width: 224.633px;">Personas elaboradoras de contenido</th>
+<td style="width: 610.167px;">David Cáceres Molina</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Organización</th>
+<td style="width: 610.167px; height: 23px;">IES MANUEL REINA y CEP Priego Montilla. Curso B2 de Competencia Digital Docente.</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 224.633px; height: 23px;">Licencia</th>
+<td style="width: 610.167px; height: 23px;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: right;"><img src="{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg" alt="Logo Andalucía se mueve con Europa" title="Logo Andalucía se mueve con Europa" width="299" height="79" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp2e30n6-hrbnl0and","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/IMAGEN_PROMOCIONAL.jpg\" alt=\"Imagen del Proyecto REA Andalucía\" width=\"600\" height=\"300\" /></h1>\n<table class=\"exe-table\" style=\"height: 92px;\"><caption></caption>\n<tbody>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Título</th>\n<td style=\"width: 610.167px; height: 23px;\">\"<strong>La llave del Poder</strong>\". Actividad de Centro para el módulo dualizado de <strong>Limpieza con máquinas</strong>.</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Descripción</th>\n<td style=\"width: 610.167px; height: 23px;\">Esta actividad está pensada como actividad final de curso para que, de forma diferente, el alumnado asiente los contenidos practicados a lo largo del curso relacionados con el mantenimiento de nuestras máquinas de limpieza.</td>\n</tr>\n<tr>\n<th style=\"width: 224.633px;\">Personas elaboradoras de contenido</th>\n<td style=\"width: 610.167px;\">David Cáceres Molina</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Organización</th>\n<td style=\"width: 610.167px; height: 23px;\">IES MANUEL REINA y CEP Priego Montilla. Curso B2 de Competencia Digital Docente.</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 224.633px; height: 23px;\">Licencia</th>\n<td style=\"width: 610.167px; height: 23px;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p style=\"text-align: right;\"><img src=\"{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg\" alt=\"Logo Andalucía se mueve con Europa\" title=\"Logo Andalucía se mueve con Europa\" width=\"299\" height=\"79\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp3ozya0-v0c5dbwbz</odePageId>
+      <odeBlockId>block-mp2e30n6-0ivt5w17j</odeBlockId>
+      <blockName>Créditos de los recursos externos</blockName>
+      <iconName>udl_rep_galeria</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozya0-v0c5dbwbz</odePageId>
+          <odeBlockId>block-mp2e30n6-0ivt5w17j</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n6-nqz43wb1t</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-paginated">
+<h2>Guía docente de Music around the world</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/ingles_2_ciclo_primaria.png" alt="" width="200" height="100">
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Elaboración propia - Equipo REA</span>. <span class="title"><em>Portada Guía Docente</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+</div>
+</div>
+<h2>Guía de uso para el aula</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 200px;"><img src="{{context_path}}/content/resources/estructura_de_un_REA_.jpg" alt="" width="200" height="144">
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Elaboración propia - Equipo REA</span>. <span class="title"><em>Secuencia Didáctica de un REA</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+</div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozya3-uxgf2upqi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Aviso legal</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aviso legal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aviso legal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozya3-uxgf2upqi</odePageId>
+      <odeBlockId>block-mp2e30n6-g3j2vn1gw</odeBlockId>
+      <blockName>External Web Site</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozya3-uxgf2upqi</odePageId>
+          <odeBlockId>block-mp2e30n6-g3j2vn1gw</odeBlockId>
+          <odeIdeviceId>idevice-mp2e30n6-49al7qd93</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div id="iframeWebsiteIdevice">
+<iframe src="https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?aviso#space" size="4" width="600" height="800" style="width:100%;"></iframe>
+<div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"url":"https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?aviso#space","height":"800"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3ozya5-a52uou8bw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>POR SI ERES PROFE (Guía Didáctica)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>POR SI ERES PROFE (Guía Didáctica)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>POR SI ERES PROFE (Guía Didáctica)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3ozya5-a52uou8bw</odePageId>
+      <odeBlockId>block-1778598807086-5i6w9tmpu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3ozya5-a52uou8bw</odePageId>
+          <odeBlockId>block-1778598807086-5i6w9tmpu</odeBlockId>
+          <odeIdeviceId>idevice-1778598807084-km96weytb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>SI ERES PROFE, TE MUESTRO DOS ELEMENTOS IMPORTANTES. </p>
+<p>1. TABLA DE RELACIÓN DE TAREAS CON CRITERIOS DE EVALUACIÓN, AGRUPAMIENTOS, HERRAMIENTAS, ETC.</p>
+<p><img src="{{context_path}}/content/resources/TABLA CRITERIOS- ACTIVIDADES- AGRUPAMIENTOS- TIEMPO.jpg" title="Tabla de organización de elementos" width="1280" height="720" alt="Tabla de tareas, criterios, agrupamientos, etc." /><br /></p>
+<p>2. ENLACE A RECURSOS EN "SYMBALOO":  <a href="https://www.symbaloo.com/shared/AAAABvgUsBcAA42ADTmU8w==" title="Enlace a Recursos Varios">https://www.symbaloo.com/shared/AAAABvgUsBcAA42ADTmU8w==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778598807084-km96weytb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>SI ERES PROFE, TE MUESTRO DOS ELEMENTOS IMPORTANTES. </p>\n<p>1. TABLA DE RELACIÓN DE TAREAS CON CRITERIOS DE EVALUACIÓN, AGRUPAMIENTOS, HERRAMIENTAS, ETC.</p>\n<p><img src=\"{{context_path}}/content/resources/TABLA CRITERIOS- ACTIVIDADES- AGRUPAMIENTOS- TIEMPO.jpg\" title=\"Tabla de organización de elementos\" width=\"1280\" height=\"720\" alt=\"Tabla de tareas, criterios, agrupamientos, etc.\" /><br /></p>\n<p>2. ENLACE A RECURSOS EN \"SYMBALOO\":  <a href=\"https://www.symbaloo.com/shared/AAAABvgUsBcAA42ADTmU8w==\" title=\"Enlace a Recursos Varios\">https://www.symbaloo.com/shared/AAAABvgUsBcAA42ADTmU8w==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
